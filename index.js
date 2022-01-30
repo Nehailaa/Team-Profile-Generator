@@ -70,13 +70,13 @@ const managerPrompts = () => {
             }
         }
     ])
-//     .then(managerAnswers => {
-//         const  { nameInput, email, id, officeNumber } = managerAnswers; 
-//         const manager = new Manager (nameInput, email, id, officeNumber);
+    .then(managerAnswers => {
+        const  { nameInput, email, id, officeNumber } = managerAnswers; 
+        const manager = new Manager (nameInput, email, id, officeNumber);
 
-//         teamArray.push(manager); 
-//         console.log(manager); 
-//     })
+        teamArray.push(manager); 
+        console.log(manager); 
+    })
 };
 
 const employeePrompts = () => {
