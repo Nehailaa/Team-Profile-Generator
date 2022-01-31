@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+.jumbotron {
+    border-radius: 0;
+}
+
+.employee-card {
+    box-shadow: 5px 5px 5px rgb(184, 4, 4);
+    margin: 1rem;
+    border: none;
+}
+
+.card-body {
+    background-color: rgb(208, 80, 210);
+}
+
+footer {
+    text-align: center;
+    padding-top: 23px;
+}
+
+.navbar {
+    background-color: rgb(34, 132, 34);
+    color: rgb(43, 41, 41);
+    font-size: 44px;
+}
+
+/* .navbar-brand {
+    font-size: 44px;
+} */
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+}
