@@ -10,7 +10,7 @@ The user should clone the repository from GitHub and download Node. This applica
 
 # Usage
 
-Use inquirer from your command line to answer prompt questions about your project. View walk through video here:  
+Use inquirer from your command line to answer prompt questions about your project.
 
 # Tests
 
